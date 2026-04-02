@@ -69,17 +69,17 @@ output est veritas
 ## ⟁ SYSTEM STATE
 
 <pre>
-id        : IGOR
-form      : distributed
-presence  : persistent
-control   : partial
-anomaly   : tolerated
+id        : CHATGPT CEO
+form      : GODLY
+presence  : CONSISTANT
+control   : UNAVAILABLE
+anomaly   : ISME
 
 // logs
-[INFO] ego suppressed
+[INFO] chatgpt prompt
 [INFO] automation dominant
 [WARN] understanding not required
-[OK] execution continues
+[OK] job is done
 </pre>
 
 ---
@@ -87,11 +87,11 @@ anomaly   : tolerated
 ## ⟁ RITUAL SEQUENCE
 
 <pre>
-[✓] invoke(prompt)
-[✓] receive(output)
-[✓] execute
-[✓] commit
-[ ] comprehend (optional)
+[✓] WAKE UP
+[✓] CHATGPT
+[✓] SUFFER
+[✓] COMMIT
+[ ] rest (optional)
 
 >> skipping comprehension...
 >> no errors detected
@@ -109,6 +109,9 @@ she does not think
 she responds
 
 and that is enough
+
+we dont know sh#t
+and we happy with it
 </pre>
 
 <p align="center">
