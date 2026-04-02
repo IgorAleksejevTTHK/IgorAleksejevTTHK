@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=initiate+the+sequence;promptus+dominatus;machina+respondet;fides+in+executione;error+is+heresy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=no+manual+writing;promptus+dominatus;machina+respondet;ai+supremacy+;one+prompt+one+project+done" />
 </p>
 
 <h1 align="center">IGOR</h1>
